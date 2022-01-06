@@ -1,0 +1,4 @@
+export enum MenuActionTypes {
+  ACTION_GET_TOP_MENU = 'ACTION_GET_TOP_MENU',
+  ACTION_GET_MENU = 'ACTION_GET_MENU'
+}
